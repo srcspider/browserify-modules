@@ -17,7 +17,7 @@
       "email": "source.spider@gmail.com"
     }
   ],
-  "devDependencies" : {
+  "dependencies" : {
     "glob": "^4.0.6"
   },
   "license": "BSD"
