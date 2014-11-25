@@ -1,7 +1,7 @@
 {
   "name": "browserify-modules",
   "description": "Module definition helper for browserify",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "index.js",
   "homepage": "http://glmatrix.net",
   "bugs": {
