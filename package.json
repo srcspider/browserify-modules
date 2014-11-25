@@ -1,0 +1,24 @@
+{
+  "name": "browserify-modules",
+  "description": "Module definition helper for browserify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "http://glmatrix.net",
+  "bugs": {
+    "url": "https://github.com/srcspider/browserify-modules/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srcspider/browserify-modules.git"
+  },
+  "contributors": [
+    {
+      "name": "srcspider",
+      "email": "source.spider@gmail.com"
+    },
+  ],
+  "devDependencies" : {
+    "glob": "^4.0.6",
+  },
+  "license": "BSD"
+}
