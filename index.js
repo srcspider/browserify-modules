@@ -28,7 +28,7 @@
 // of require('../../../../lib/merge')
 //
 
-var gulp = require('gulp');
+var glob = require('glob');
 
 var define_modules = function (root, modules) {
 	return function (bundler) {
