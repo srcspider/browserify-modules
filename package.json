@@ -15,7 +15,7 @@
     {
       "name": "srcspider",
       "email": "source.spider@gmail.com"
-    },
+    }
   ],
   "devDependencies" : {
     "glob": "^4.0.6",
